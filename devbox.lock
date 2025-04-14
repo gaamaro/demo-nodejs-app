@@ -1,0 +1,121 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "github:NixOS/nixpkgs/nixpkgs-unstable": {
+      "resolved": "github:NixOS/nixpkgs/18dd725c29603f582cf1900e0d25f9f1063dbf11?lastModified=1744536153&narHash=sha256-awS2zRgF4uTwrOKwwiJcByDzDOdo3Q1rPZbiHQg%2FN38%3D"
+    },
+    "nodejs@18": {
+      "last_modified": "2025-03-30T07:43:48Z",
+      "plugin_version": "0.0.2",
+      "resolved": "github:NixOS/nixpkgs/63158b9cbb6ec93d26255871c447b0f01da81619#nodejs_18",
+      "source": "devbox-search",
+      "version": "18.20.8",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/qh5087cvv0bgb4yzcnxnvy0q02cx03l2-nodejs-18.20.8",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/iq4hgnlffymyfh9n32p8600b5y072zpn-nodejs-18.20.8-libv8"
+            }
+          ],
+          "store_path": "/nix/store/qh5087cvv0bgb4yzcnxnvy0q02cx03l2-nodejs-18.20.8"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/0i63jsbrdillrl55an158qrbdvdbzpz8-nodejs-18.20.8",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/vrksbxm0crl85cfarhf7cdrg1jhhyrjv-nodejs-18.20.8-libv8"
+            }
+          ],
+          "store_path": "/nix/store/0i63jsbrdillrl55an158qrbdvdbzpz8-nodejs-18.20.8"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/i40153hijmbwh274wdmqhrf5zw8h87q5-nodejs-18.20.8",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/g0lw6y8zny9mz2fxpwxywcwhhd2vgvwq-nodejs-18.20.8-libv8"
+            }
+          ],
+          "store_path": "/nix/store/i40153hijmbwh274wdmqhrf5zw8h87q5-nodejs-18.20.8"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/6lircm5y3zm3xwjnqp4fq3ycgjbaw5jh-nodejs-18.20.8",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/3s61jw0djqnj6sagh28309y3nwylvmas-nodejs-18.20.8-libv8"
+            }
+          ],
+          "store_path": "/nix/store/6lircm5y3zm3xwjnqp4fq3ycgjbaw5jh-nodejs-18.20.8"
+        }
+      }
+    },
+    "pm2@latest": {
+      "last_modified": "2025-03-11T17:52:14Z",
+      "resolved": "github:NixOS/nixpkgs/0d534853a55b5d02a4ababa1d71921ce8f0aee4c#pm2",
+      "source": "devbox-search",
+      "version": "5.4.2",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/4hi7p75ixxi08s6asy0b9by3rqshz829-pm2-5.4.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/4hi7p75ixxi08s6asy0b9by3rqshz829-pm2-5.4.2"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/4vcvzdp5xyhr19ir0mjv4kb0llv5sbbn-pm2-5.4.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/4vcvzdp5xyhr19ir0mjv4kb0llv5sbbn-pm2-5.4.2"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/5dwz0bnp8ls4vj1d2qvwlpk4mh74xb87-pm2-5.4.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/5dwz0bnp8ls4vj1d2qvwlpk4mh74xb87-pm2-5.4.2"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/shfv23xyd45wxv8w4ax04abmvmf1m78w-pm2-5.4.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/shfv23xyd45wxv8w4ax04abmvmf1m78w-pm2-5.4.2"
+        }
+      }
+    }
+  }
+}

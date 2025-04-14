@@ -1,0 +1,341 @@
+2025-04-14 09:35:07: {"timestamp":"2025-04-14T12:35:07.627Z","level":"info","message":"App de observabilidade rodando em http://localhost:3000"}
+2025-04-14 09:35:09: {"timestamp":"2025-04-14T12:35:09.847Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1220}
+2025-04-14 09:35:10: {"timestamp":"2025-04-14T12:35:10.283Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":656}
+2025-04-14 09:35:11: {"timestamp":"2025-04-14T12:35:11.196Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":569}
+2025-04-14 09:35:13: {"timestamp":"2025-04-14T12:35:13.055Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":427}
+2025-04-14 09:35:13: {"timestamp":"2025-04-14T12:35:13.461Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1833}
+2025-04-14 09:35:14: {"timestamp":"2025-04-14T12:35:14.196Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":566}
+2025-04-14 09:35:16: {"timestamp":"2025-04-14T12:35:16.132Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1501}
+2025-04-14 09:35:17: {"timestamp":"2025-04-14T12:35:17.566Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":933}
+2025-04-14 09:35:18: {"timestamp":"2025-04-14T12:35:18.161Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":528}
+2025-04-14 09:35:18: {"timestamp":"2025-04-14T12:35:18.374Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2742}
+2025-04-14 09:35:19: {"timestamp":"2025-04-14T12:35:19.184Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":551}
+2025-04-14 09:35:20: {"timestamp":"2025-04-14T12:35:20.335Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:35:21: {"timestamp":"2025-04-14T12:35:21.757Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1122}
+2025-04-14 09:35:22: {"timestamp":"2025-04-14T12:35:22.041Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2407}
+2025-04-14 09:35:22: {"timestamp":"2025-04-14T12:35:22.201Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":567}
+2025-04-14 09:35:23: {"timestamp":"2025-04-14T12:35:23.234Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":599}
+2025-04-14 09:35:25: {"timestamp":"2025-04-14T12:35:25.232Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":596}
+2025-04-14 09:35:25: {"timestamp":"2025-04-14T12:35:25.593Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1957}
+2025-04-14 09:35:27: {"timestamp":"2025-04-14T12:35:27.121Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:35:27: {"timestamp":"2025-04-14T12:35:27.394Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":756}
+2025-04-14 09:35:27: {"timestamp":"2025-04-14T12:35:27.565Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1928}
+2025-04-14 09:35:29: {"timestamp":"2025-04-14T12:35:29.676Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1036}
+2025-04-14 09:35:30: {"timestamp":"2025-04-14T12:35:30.161Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2522}
+2025-04-14 09:35:30: {"timestamp":"2025-04-14T12:35:30.218Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":577}
+2025-04-14 09:35:31: {"timestamp":"2025-04-14T12:35:31.072Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":431}
+2025-04-14 09:35:32: {"timestamp":"2025-04-14T12:35:32.155Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:35:32: {"timestamp":"2025-04-14T12:35:32.586Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":944}
+2025-04-14 09:35:33: {"timestamp":"2025-04-14T12:35:33.215Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":573}
+2025-04-14 09:35:34: {"timestamp":"2025-04-14T12:35:34.073Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":430}
+2025-04-14 09:35:35: {"timestamp":"2025-04-14T12:35:35.133Z","level":"info","message":"App de observabilidade rodando em http://localhost:3000"}
+2025-04-14 09:35:37: {"timestamp":"2025-04-14T12:35:37.145Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:35:37: {"timestamp":"2025-04-14T12:35:37.456Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1325}
+2025-04-14 09:35:37: {"timestamp":"2025-04-14T12:35:37.701Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":568}
+2025-04-14 09:35:39: {"timestamp":"2025-04-14T12:35:39.612Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1478}
+2025-04-14 09:35:40: {"timestamp":"2025-04-14T12:35:40.501Z","level":"info","message":"App de observabilidade rodando em http://localhost:3000"}
+2025-04-14 09:35:42: {"timestamp":"2025-04-14T12:35:42.311Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":812}
+2025-04-14 09:35:42: {"timestamp":"2025-04-14T12:35:42.773Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:35:44: {"timestamp":"2025-04-14T12:35:44.275Z","level":"info","message":"App de observabilidade rodando em http://localhost:3000"}
+2025-04-14 09:35:45: {"timestamp":"2025-04-14T12:35:45.863Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":589}
+2025-04-14 09:35:46: {"timestamp":"2025-04-14T12:35:46.705Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":432}
+2025-04-14 09:35:47: {"timestamp":"2025-04-14T12:35:47.775Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:35:48: {"timestamp":"2025-04-14T12:35:48.017Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":741}
+2025-04-14 09:35:49: {"timestamp":"2025-04-14T12:35:49.925Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":649}
+2025-04-14 09:35:50: {"timestamp":"2025-04-14T12:35:50.843Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2567}
+2025-04-14 09:35:51: {"timestamp":"2025-04-14T12:35:51.074Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":796}
+2025-04-14 09:35:52: {"timestamp":"2025-04-14T12:35:52.553Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1274}
+2025-04-14 09:35:52: {"timestamp":"2025-04-14T12:35:52.768Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:35:52: {"timestamp":"2025-04-14T12:35:52.854Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":575}
+2025-04-14 09:35:53: {"timestamp":"2025-04-14T12:35:53.731Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":451}
+2025-04-14 09:35:54: {"timestamp":"2025-04-14T12:35:54.850Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":570}
+2025-04-14 09:35:55: {"timestamp":"2025-04-14T12:35:55.850Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":569}
+2025-04-14 09:35:57: {"timestamp":"2025-04-14T12:35:57.275Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":994}
+2025-04-14 09:35:57: {"timestamp":"2025-04-14T12:35:57.775Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:35:58: {"timestamp":"2025-04-14T12:35:58.381Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1098}
+2025-04-14 09:35:59: {"timestamp":"2025-04-14T12:35:59.024Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":741}
+2025-04-14 09:36:00: {"timestamp":"2025-04-14T12:36:00.141Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":857}
+2025-04-14 09:36:02: {"timestamp":"2025-04-14T12:36:02.330Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1045}
+2025-04-14 09:36:02: {"timestamp":"2025-04-14T12:36:02.769Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:36:02: {"timestamp":"2025-04-14T12:36:02.866Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":580}
+2025-04-14 09:36:04: {"timestamp":"2025-04-14T12:36:04.461Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1174}
+2025-04-14 09:36:04: {"timestamp":"2025-04-14T12:36:04.860Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":572}
+2025-04-14 09:36:06: {"timestamp":"2025-04-14T12:36:06.796Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1508}
+2025-04-14 09:36:06: {"timestamp":"2025-04-14T12:36:06.857Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":568}
+2025-04-14 09:36:07: {"timestamp":"2025-04-14T12:36:07.803Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:36:08: {"timestamp":"2025-04-14T12:36:08.188Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":898}
+2025-04-14 09:36:09: {"timestamp":"2025-04-14T12:36:09.430Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1136}
+2025-04-14 09:36:10: {"timestamp":"2025-04-14T12:36:10.155Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":859}
+2025-04-14 09:36:10: {"timestamp":"2025-04-14T12:36:10.859Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":564}
+2025-04-14 09:36:11: {"timestamp":"2025-04-14T12:36:11.871Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":575}
+2025-04-14 09:36:12: {"timestamp":"2025-04-14T12:36:12.797Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:36:13: {"timestamp":"2025-04-14T12:36:13.554Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1257}
+2025-04-14 09:36:14: {"timestamp":"2025-04-14T12:36:14.051Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":754}
+2025-04-14 09:36:15: {"timestamp":"2025-04-14T12:36:15.698Z","level":"info","message":"App de observabilidade rodando em http://localhost:3000"}
+2025-04-14 09:36:17: {"timestamp":"2025-04-14T12:36:17.368Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":671}
+2025-04-14 09:36:18: {"timestamp":"2025-04-14T12:36:17.999Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:36:19: {"timestamp":"2025-04-14T12:36:19.989Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1289}
+2025-04-14 09:36:20: {"timestamp":"2025-04-14T12:36:20.273Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":572}
+2025-04-14 09:36:20: {"timestamp":"2025-04-14T12:36:20.553Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2854}
+2025-04-14 09:36:21: {"timestamp":"2025-04-14T12:36:21.931Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1229}
+2025-04-14 09:36:22: {"timestamp":"2025-04-14T12:36:22.336Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":634}
+2025-04-14 09:36:22: {"timestamp":"2025-04-14T12:36:22.996Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:36:23: {"timestamp":"2025-04-14T12:36:23.127Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":424}
+2025-04-14 09:36:24: {"timestamp":"2025-04-14T12:36:24.130Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":427}
+2025-04-14 09:36:25: {"timestamp":"2025-04-14T12:36:25.282Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":578}
+2025-04-14 09:36:26: {"timestamp":"2025-04-14T12:36:26.663Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":958}
+2025-04-14 09:36:27: {"timestamp":"2025-04-14T12:36:27.329Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":623}
+2025-04-14 09:36:28: {"timestamp":"2025-04-14T12:36:28.005Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:36:28: {"timestamp":"2025-04-14T12:36:28.325Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":618}
+2025-04-14 09:36:29: {"timestamp":"2025-04-14T12:36:29.580Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":870}
+2025-04-14 09:36:30: {"timestamp":"2025-04-14T12:36:30.291Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":580}
+2025-04-14 09:36:31: {"timestamp":"2025-04-14T12:36:31.343Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":632}
+2025-04-14 09:36:32: {"timestamp":"2025-04-14T12:36:32.276Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":564}
+2025-04-14 09:36:32: {"timestamp":"2025-04-14T12:36:32.996Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:36:33: {"timestamp":"2025-04-14T12:36:33.461Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":748}
+2025-04-14 09:36:35: {"timestamp":"2025-04-14T12:36:35.292Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":578}
+2025-04-14 09:36:35: {"timestamp":"2025-04-14T12:36:35.337Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1623}
+2025-04-14 09:36:37: {"timestamp":"2025-04-14T12:36:37.193Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1479}
+2025-04-14 09:36:37: {"timestamp":"2025-04-14T12:36:37.997Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:36:39: {"timestamp":"2025-04-14T12:36:39.150Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1433}
+2025-04-14 09:36:39: {"timestamp":"2025-04-14T12:36:39.285Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":567}
+2025-04-14 09:36:40: {"timestamp":"2025-04-14T12:36:40.149Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":431}
+2025-04-14 09:36:41: {"timestamp":"2025-04-14T12:36:41.387Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":668}
+2025-04-14 09:36:42: {"timestamp":"2025-04-14T12:36:42.927Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1206}
+2025-04-14 09:36:42: {"timestamp":"2025-04-14T12:36:42.998Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:36:43: {"timestamp":"2025-04-14T12:36:43.749Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1025}
+2025-04-14 09:36:44: {"timestamp":"2025-04-14T12:36:44.297Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":572}
+2025-04-14 09:36:52: {"timestamp":"2025-04-14T12:36:52.414Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":6685}
+2025-04-14 09:36:47: {"timestamp":"2025-04-14T12:36:47.287Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2561}
+2025-04-14 09:36:47: {"timestamp":"2025-04-14T12:36:47.326Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":590}
+2025-04-14 09:36:48: {"timestamp":"2025-04-14T12:36:48.001Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:36:48: {"timestamp":"2025-04-14T12:36:48.569Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":831}
+2025-04-14 09:36:49: {"timestamp":"2025-04-14T12:36:49.336Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":597}
+2025-04-14 09:36:50: {"timestamp":"2025-04-14T12:36:50.171Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":431}
+2025-04-14 09:36:51: {"timestamp":"2025-04-14T12:36:51.389Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":647}
+2025-04-14 09:36:52: {"timestamp":"2025-04-14T12:36:52.175Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":434}
+2025-04-14 09:36:53: {"timestamp":"2025-04-14T12:36:53.000Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:36:53: {"timestamp":"2025-04-14T12:36:53.320Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":576}
+2025-04-14 09:36:54: {"timestamp":"2025-04-14T12:36:54.311Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":566}
+2025-04-14 09:36:55: {"timestamp":"2025-04-14T12:36:55.312Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":562}
+2025-04-14 09:36:56: {"timestamp":"2025-04-14T12:36:56.435Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":686}
+2025-04-14 09:36:57: {"timestamp":"2025-04-14T12:36:57.321Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":571}
+2025-04-14 09:36:58: {"timestamp":"2025-04-14T12:36:58.002Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:36:58: {"timestamp":"2025-04-14T12:36:58.884Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1133}
+2025-04-14 09:36:59: {"timestamp":"2025-04-14T12:36:59.328Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":577}
+2025-04-14 09:37:00: {"timestamp":"2025-04-14T12:37:00.320Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":567}
+2025-04-14 09:37:02: {"timestamp":"2025-04-14T12:37:02.158Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1405}
+2025-04-14 09:37:02: {"timestamp":"2025-04-14T12:37:02.445Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":692}
+2025-04-14 09:37:03: {"timestamp":"2025-04-14T12:37:03.009Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:37:04: {"timestamp":"2025-04-14T12:37:04.614Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":858}
+2025-04-14 09:37:05: {"timestamp":"2025-04-14T12:37:05.195Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2440}
+2025-04-14 09:37:05: {"timestamp":"2025-04-14T12:37:05.741Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":984}
+2025-04-14 09:37:07: {"timestamp":"2025-04-14T12:37:07.336Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":576}
+2025-04-14 09:37:07: {"timestamp":"2025-04-14T12:37:07.604Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1847}
+2025-04-14 09:37:08: {"timestamp":"2025-04-14T12:37:08.006Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:37:08: {"timestamp":"2025-04-14T12:37:08.650Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":887}
+2025-04-14 09:37:10: {"timestamp":"2025-04-14T12:37:10.335Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":570}
+2025-04-14 09:37:10: {"timestamp":"2025-04-14T12:37:10.446Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1683}
+2025-04-14 09:37:11: {"timestamp":"2025-04-14T12:37:11.363Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":598}
+2025-04-14 09:37:12: {"timestamp":"2025-04-14T12:37:12.608Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":842}
+2025-04-14 09:37:13: {"timestamp":"2025-04-14T12:37:13.007Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:37:13: {"timestamp":"2025-04-14T12:37:13.349Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":581}
+2025-04-14 09:37:15: {"timestamp":"2025-04-14T12:37:15.432Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":663}
+2025-04-14 09:37:15: {"timestamp":"2025-04-14T12:37:15.562Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1793}
+2025-04-14 09:37:17: {"timestamp":"2025-04-14T12:37:17.558Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1788}
+2025-04-14 09:37:18: {"timestamp":"2025-04-14T12:37:18.008Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:37:18: {"timestamp":"2025-04-14T12:37:18.043Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1272}
+2025-04-14 09:37:18: {"timestamp":"2025-04-14T12:37:18.884Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1111}
+2025-04-14 09:37:19: {"timestamp":"2025-04-14T12:37:19.647Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":873}
+2025-04-14 09:37:20: {"timestamp":"2025-04-14T12:37:20.291Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":515}
+2025-04-14 09:37:21: {"timestamp":"2025-04-14T12:37:21.355Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":577}
+2025-04-14 09:37:22: {"timestamp":"2025-04-14T12:37:22.543Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":760}
+2025-04-14 09:37:23: {"timestamp":"2025-04-14T12:37:23.010Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:37:23: {"timestamp":"2025-04-14T12:37:23.216Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":430}
+2025-04-14 09:37:24: {"timestamp":"2025-04-14T12:37:24.368Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":580}
+2025-04-14 09:37:25: {"timestamp":"2025-04-14T12:37:25.628Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":839}
+2025-04-14 09:37:27: {"timestamp":"2025-04-14T12:37:27.405Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1613}
+2025-04-14 09:37:27: {"timestamp":"2025-04-14T12:37:27.925Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1131}
+2025-04-14 09:37:28: {"timestamp":"2025-04-14T12:37:28.003Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:37:28: {"timestamp":"2025-04-14T12:37:28.433Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":639}
+2025-04-14 09:37:29: {"timestamp":"2025-04-14T12:37:29.880Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1085}
+2025-04-14 09:37:30: {"timestamp":"2025-04-14T12:37:30.378Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":581}
+2025-04-14 09:37:33: {"timestamp":"2025-04-14T12:37:33.007Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:37:33: {"timestamp":"2025-04-14T12:37:33.153Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1352}
+2025-04-14 09:37:33: {"timestamp":"2025-04-14T12:37:33.303Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2504}
+2025-04-14 09:37:33: {"timestamp":"2025-04-14T12:37:33.369Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":569}
+2025-04-14 09:37:34: {"timestamp":"2025-04-14T12:37:34.739Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":937}
+2025-04-14 09:37:35: {"timestamp":"2025-04-14T12:37:35.801Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":998}
+2025-04-14 09:37:37: {"timestamp":"2025-04-14T12:37:37.238Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1433}
+2025-04-14 09:37:38: {"timestamp":"2025-04-14T12:37:38.004Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:37:38: {"timestamp":"2025-04-14T12:37:38.062Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1252}
+2025-04-14 09:37:38: {"timestamp":"2025-04-14T12:37:38.373Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":562}
+2025-04-14 09:37:39: {"timestamp":"2025-04-14T12:37:39.380Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":569}
+2025-04-14 09:37:40: {"timestamp":"2025-04-14T12:37:40.381Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":568}
+2025-04-14 09:37:41: {"timestamp":"2025-04-14T12:37:41.384Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":570}
+2025-04-14 09:37:43: {"timestamp":"2025-04-14T12:37:43.005Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:37:43: {"timestamp":"2025-04-14T12:37:43.281Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1465}
+2025-04-14 09:37:43: {"timestamp":"2025-04-14T12:37:43.629Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":814}
+2025-04-14 09:37:44: {"timestamp":"2025-04-14T12:37:44.630Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":811}
+2025-04-14 09:37:45: {"timestamp":"2025-04-14T12:37:45.908Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1088}
+2025-04-14 09:37:46: {"timestamp":"2025-04-14T12:37:46.620Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":799}
+2025-04-14 09:37:48: {"timestamp":"2025-04-14T12:37:48.006Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:37:48: {"timestamp":"2025-04-14T12:37:48.305Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1483}
+2025-04-14 09:37:48: {"timestamp":"2025-04-14T12:37:48.402Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":579}
+2025-04-14 09:37:49: {"timestamp":"2025-04-14T12:37:49.732Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":907}
+2025-04-14 09:37:50: {"timestamp":"2025-04-14T12:37:50.393Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":566}
+2025-04-14 09:37:51: {"timestamp":"2025-04-14T12:37:51.771Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":942}
+2025-04-14 09:37:52: {"timestamp":"2025-04-14T12:37:52.399Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":569}
+2025-04-14 09:37:53: {"timestamp":"2025-04-14T12:37:53.006Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:37:53: {"timestamp":"2025-04-14T12:37:53.594Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":763}
+2025-04-14 09:37:54: {"timestamp":"2025-04-14T12:37:54.853Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1021}
+2025-04-14 09:37:56: {"timestamp":"2025-04-14T12:37:56.036Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1202}
+2025-04-14 09:37:56: {"timestamp":"2025-04-14T12:37:56.417Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":577}
+2025-04-14 09:37:57: {"timestamp":"2025-04-14T12:37:57.266Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":426}
+2025-04-14 09:37:58: {"timestamp":"2025-04-14T12:37:58.092Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:37:58: {"timestamp":"2025-04-14T12:37:58.440Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":599}
+2025-04-14 09:38:00: {"timestamp":"2025-04-14T12:38:00.451Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1610}
+2025-04-14 09:38:00: {"timestamp":"2025-04-14T12:38:00.561Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":718}
+2025-04-14 09:38:02: {"timestamp":"2025-04-14T12:38:02.677Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":830}
+2025-04-14 09:38:03: {"timestamp":"2025-04-14T12:38:03.078Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:38:03: {"timestamp":"2025-04-14T12:38:03.105Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2260}
+2025-04-14 09:38:03: {"timestamp":"2025-04-14T12:38:03.409Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":562}
+2025-04-14 09:38:05: {"timestamp":"2025-04-14T12:38:05.417Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":568}
+2025-04-14 09:38:07: {"timestamp":"2025-04-14T12:38:07.832Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1984}
+2025-04-14 09:38:08: {"timestamp":"2025-04-14T12:38:08.080Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:38:08: {"timestamp":"2025-04-14T12:38:08.710Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":859}
+2025-04-14 09:38:09: {"timestamp":"2025-04-14T12:38:09.013Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2164}
+2025-04-14 09:38:09: {"timestamp":"2025-04-14T12:38:09.842Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":991}
+2025-04-14 09:38:10: {"timestamp":"2025-04-14T12:38:10.794Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":941}
+2025-04-14 09:38:11: {"timestamp":"2025-04-14T12:38:11.427Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":575}
+2025-04-14 09:38:12: {"timestamp":"2025-04-14T12:38:12.615Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":763}
+2025-04-14 09:38:13: {"timestamp":"2025-04-14T12:38:13.080Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:38:13: {"timestamp":"2025-04-14T12:38:13.481Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":628}
+2025-04-14 09:38:14: {"timestamp":"2025-04-14T12:38:14.437Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":583}
+2025-04-14 09:38:15: {"timestamp":"2025-04-14T12:38:15.949Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1096}
+2025-04-14 09:38:18: {"timestamp":"2025-04-14T12:38:18.122Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:38:18: {"timestamp":"2025-04-14T12:38:18.341Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2486}
+2025-04-14 09:38:19: {"timestamp":"2025-04-14T12:38:19.400Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2546}
+2025-04-14 09:38:20: {"timestamp":"2025-04-14T12:38:20.178Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1324}
+2025-04-14 09:38:21: {"timestamp":"2025-04-14T12:38:21.453Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":597}
+2025-04-14 09:38:22: {"timestamp":"2025-04-14T12:38:22.955Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1098}
+2025-04-14 09:38:23: {"timestamp":"2025-04-14T12:38:23.120Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:38:23: {"timestamp":"2025-04-14T12:38:23.868Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1011}
+2025-04-14 09:38:24: {"timestamp":"2025-04-14T12:38:24.762Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":904}
+2025-04-14 09:38:26: {"timestamp":"2025-04-14T12:38:26.614Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":755}
+2025-04-14 09:38:28: {"timestamp":"2025-04-14T12:38:28.118Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:38:28: {"timestamp":"2025-04-14T12:38:28.538Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1679}
+2025-04-14 09:38:28: {"timestamp":"2025-04-14T12:38:28.958Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1099}
+2025-04-14 09:38:29: {"timestamp":"2025-04-14T12:38:29.736Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":876}
+2025-04-14 09:38:30: {"timestamp":"2025-04-14T12:38:30.427Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":566}
+2025-04-14 09:38:32: {"timestamp":"2025-04-14T12:38:32.364Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1502}
+2025-04-14 09:38:33: {"timestamp":"2025-04-14T12:38:33.125Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:38:33: {"timestamp":"2025-04-14T12:38:33.646Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":782}
+2025-04-14 09:38:33: {"timestamp":"2025-04-14T12:38:33.680Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1818}
+2025-04-14 09:38:34: {"timestamp":"2025-04-14T12:38:34.437Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":573}
+2025-04-14 09:38:35: {"timestamp":"2025-04-14T12:38:35.728Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":863}
+2025-04-14 09:38:37: {"timestamp":"2025-04-14T12:38:37.440Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":571}
+2025-04-14 09:38:37: {"timestamp":"2025-04-14T12:38:37.813Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1946}
+2025-04-14 09:38:38: {"timestamp":"2025-04-14T12:38:38.119Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:38:39: {"timestamp":"2025-04-14T12:38:39.445Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":573}
+2025-04-14 09:38:39: {"timestamp":"2025-04-14T12:38:39.838Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1967}
+2025-04-14 09:38:40: {"timestamp":"2025-04-14T12:38:40.648Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":775}
+2025-04-14 09:38:41: {"timestamp":"2025-04-14T12:38:41.490Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":617}
+2025-04-14 09:38:42: {"timestamp":"2025-04-14T12:38:42.542Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":669}
+2025-04-14 09:38:43: {"timestamp":"2025-04-14T12:38:43.125Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:38:44: {"timestamp":"2025-04-14T12:38:44.804Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":928}
+2025-04-14 09:38:44: {"timestamp":"2025-04-14T12:38:44.924Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2049}
+2025-04-14 09:38:46: {"timestamp":"2025-04-14T12:38:46.152Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1275}
+2025-04-14 09:38:46: {"timestamp":"2025-04-14T12:38:46.762Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":883}
+2025-04-14 09:38:48: {"timestamp":"2025-04-14T12:38:48.121Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:38:48: {"timestamp":"2025-04-14T12:38:48.312Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":430}
+2025-04-14 09:38:48: {"timestamp":"2025-04-14T12:38:48.598Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1717}
+2025-04-14 09:38:49: {"timestamp":"2025-04-14T12:38:49.858Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":975}
+2025-04-14 09:38:50: {"timestamp":"2025-04-14T12:38:50.464Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":581}
+2025-04-14 09:38:52: {"timestamp":"2025-04-14T12:38:52.311Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":428}
+2025-04-14 09:38:52: {"timestamp":"2025-04-14T12:38:52.826Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1943}
+2025-04-14 09:38:53: {"timestamp":"2025-04-14T12:38:53.128Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:38:53: {"timestamp":"2025-04-14T12:38:53.456Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":571}
+2025-04-14 09:38:54: {"timestamp":"2025-04-14T12:38:54.981Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1095}
+2025-04-14 09:38:56: {"timestamp":"2025-04-14T12:38:56.249Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1362}
+2025-04-14 09:38:56: {"timestamp":"2025-04-14T12:38:56.464Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":576}
+2025-04-14 09:38:58: {"timestamp":"2025-04-14T12:38:58.073Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1185}
+2025-04-14 09:38:58: {"timestamp":"2025-04-14T12:38:58.126Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:38:58: {"timestamp":"2025-04-14T12:38:58.500Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":611}
+2025-04-14 09:39:00: {"timestamp":"2025-04-14T12:39:00.479Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1589}
+2025-04-14 09:39:00: {"timestamp":"2025-04-14T12:39:00.868Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":977}
+2025-04-14 09:39:02: {"timestamp":"2025-04-14T12:39:02.173Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1282}
+2025-04-14 09:39:02: {"timestamp":"2025-04-14T12:39:02.316Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":424}
+2025-04-14 09:39:03: {"timestamp":"2025-04-14T12:39:03.123Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:39:03: {"timestamp":"2025-04-14T12:39:03.463Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":570}
+2025-04-14 09:39:04: {"timestamp":"2025-04-14T12:39:04.326Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":432}
+2025-04-14 09:39:05: {"timestamp":"2025-04-14T12:39:05.464Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":570}
+2025-04-14 09:39:06: {"timestamp":"2025-04-14T12:39:06.467Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":573}
+2025-04-14 09:39:07: {"timestamp":"2025-04-14T12:39:07.463Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":568}
+2025-04-14 09:39:08: {"timestamp":"2025-04-14T12:39:08.125Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:39:08: {"timestamp":"2025-04-14T12:39:08.590Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":694}
+2025-04-14 09:39:09: {"timestamp":"2025-04-14T12:39:09.463Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":566}
+2025-04-14 09:39:11: {"timestamp":"2025-04-14T12:39:11.349Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1452}
+2025-04-14 09:39:12: {"timestamp":"2025-04-14T12:39:12.015Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1118}
+2025-04-14 09:39:12: {"timestamp":"2025-04-14T12:39:12.478Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":579}
+2025-04-14 09:39:13: {"timestamp":"2025-04-14T12:39:13.124Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:39:13: {"timestamp":"2025-04-14T12:39:13.471Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":572}
+2025-04-14 09:39:14: {"timestamp":"2025-04-14T12:39:14.730Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":830}
+2025-04-14 09:39:15: {"timestamp":"2025-04-14T12:39:15.463Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":562}
+2025-04-14 09:39:16: {"timestamp":"2025-04-14T12:39:16.469Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":568}
+2025-04-14 09:39:17: {"timestamp":"2025-04-14T12:39:17.520Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":618}
+2025-04-14 09:39:18: {"timestamp":"2025-04-14T12:39:18.124Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:39:18: {"timestamp":"2025-04-14T12:39:18.729Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":827}
+2025-04-14 09:39:19: {"timestamp":"2025-04-14T12:39:19.842Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":938}
+2025-04-14 09:39:21: {"timestamp":"2025-04-14T12:39:21.240Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1335}
+2025-04-14 09:39:22: {"timestamp":"2025-04-14T12:39:22.780Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1874}
+2025-04-14 09:39:23: {"timestamp":"2025-04-14T12:39:23.124Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:39:23: {"timestamp":"2025-04-14T12:39:23.320Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1414}
+2025-04-14 09:39:23: {"timestamp":"2025-04-14T12:39:23.478Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":571}
+2025-04-14 09:39:24: {"timestamp":"2025-04-14T12:39:24.328Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":420}
+2025-04-14 09:39:25: {"timestamp":"2025-04-14T12:39:25.488Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":580}
+2025-04-14 09:39:27: {"timestamp":"2025-04-14T12:39:27.338Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1428}
+2025-04-14 09:39:27: {"timestamp":"2025-04-14T12:39:27.479Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":568}
+2025-04-14 09:39:28: {"timestamp":"2025-04-14T12:39:28.125Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:39:28: {"timestamp":"2025-04-14T12:39:28.718Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":806}
+2025-04-14 09:39:30: {"timestamp":"2025-04-14T12:39:30.157Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1244}
+2025-04-14 09:39:30: {"timestamp":"2025-04-14T12:39:30.486Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":571}
+2025-04-14 09:39:31: {"timestamp":"2025-04-14T12:39:31.647Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":731}
+2025-04-14 09:39:32: {"timestamp":"2025-04-14T12:39:32.739Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":823}
+2025-04-14 09:39:33: {"timestamp":"2025-04-14T12:39:33.125Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:39:34: {"timestamp":"2025-04-14T12:39:34.270Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1353}
+2025-04-14 09:39:35: {"timestamp":"2025-04-14T12:39:35.141Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1224}
+2025-04-14 09:39:35: {"timestamp":"2025-04-14T12:39:35.483Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":565}
+2025-04-14 09:39:37: {"timestamp":"2025-04-14T12:39:37.495Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":575}
+2025-04-14 09:39:37: {"timestamp":"2025-04-14T12:39:37.673Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1755}
+2025-04-14 09:39:38: {"timestamp":"2025-04-14T12:39:38.129Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:39:38: {"timestamp":"2025-04-14T12:39:38.496Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":575}
+2025-04-14 09:39:39: {"timestamp":"2025-04-14T12:39:39.486Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":565}
+2025-04-14 09:39:40: {"timestamp":"2025-04-14T12:39:40.487Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":565}
+2025-04-14 09:39:41: {"timestamp":"2025-04-14T12:39:41.890Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":967}
+2025-04-14 09:39:42: {"timestamp":"2025-04-14T12:39:42.491Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":567}
+2025-04-14 09:39:43: {"timestamp":"2025-04-14T12:39:43.126Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:39:43: {"timestamp":"2025-04-14T12:39:43.488Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":563}
+2025-04-14 09:39:44: {"timestamp":"2025-04-14T12:39:44.516Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":590}
+2025-04-14 09:39:48: {"timestamp":"2025-04-14T12:39:48.128Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:39:48: {"timestamp":"2025-04-14T12:39:48.515Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2588}
+2025-04-14 09:39:49: {"timestamp":"2025-04-14T12:39:49.996Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2068}
+2025-04-14 09:39:52: {"timestamp":"2025-04-14T12:39:52.349Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2420}
+2025-04-14 09:39:53: {"timestamp":"2025-04-14T12:39:53.129Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:39:57: {"timestamp":"2025-04-14T12:39:57.140Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2206}
+2025-04-14 09:39:58: {"timestamp":"2025-04-14T12:39:58.127Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:39:58: {"timestamp":"2025-04-14T12:39:58.790Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1850}
+2025-04-14 09:40:00: {"timestamp":"2025-04-14T12:40:00.068Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2127}
+2025-04-14 09:40:00: {"timestamp":"2025-04-14T12:40:00.159Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1217}
+2025-04-14 09:40:02: {"timestamp":"2025-04-14T12:40:02.252Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1308}
+2025-04-14 09:40:02: {"timestamp":"2025-04-14T12:40:02.596Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2653}
+2025-04-14 09:40:03: {"timestamp":"2025-04-14T12:40:03.131Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:40:04: {"timestamp":"2025-04-14T12:40:04.870Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":923}
+2025-04-14 09:40:05: {"timestamp":"2025-04-14T12:40:05.200Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":2255}
+2025-04-14 09:40:07: {"timestamp":"2025-04-14T12:40:07.071Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1124}
+2025-04-14 09:40:08: {"timestamp":"2025-04-14T12:40:08.130Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:40:08: {"timestamp":"2025-04-14T12:40:08.629Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":1682}
+2025-04-14 09:40:08: {"timestamp":"2025-04-14T12:40:08.753Z","level":"info","message":"Requisição externa bem-sucedida","durationMs":805}
+2025-04-14 09:40:09: {"timestamp":"2025-04-14T12:40:09.890Z","level":"info","message":"App de observabilidade rodando em http://localhost:3000"}
+2025-04-14 09:40:13: {"timestamp":"2025-04-14T12:40:13.138Z","level":"info","message":"Chamada ao endpoint interno"}
+2025-04-14 09:40:13: {"timestamp":"2025-04-14T12:40:13.769Z","level":"info","message":"App de observabilidade rodando em http://localhost:3000"}
